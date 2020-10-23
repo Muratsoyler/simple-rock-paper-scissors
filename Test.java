@@ -1,7 +1,5 @@
-import java.util.Scanner;
-import java.util.Random;
-
 /**********************************************
+
 Simple game made by Murat Soyler
 - Version 1.0
 - Self explaining code
