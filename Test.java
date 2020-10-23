@@ -124,7 +124,7 @@ Libraries
     
     public static void print(String text) {
     //Makes printing text easier
-       System.out.println( text );
+       System.out.println(WHAT? system didnt understand what you meant);
     }
     
     public static String quickFormat(String input) { 
