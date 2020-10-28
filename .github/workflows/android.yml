@@ -12,7 +12,7 @@ jobs:
         run: ${ANDROID_SDK_ROOT}/tools/bin/sdkmanager --install "ndk;16.1.4479499"
       - name: Build Rock-paper-scissors APK with Gradle
         run: |
-          chmod +x gradlew
+          chmod +x
           ./gradlew clean :mcinabox:assembleDebug
       - name: Upload APK
         uses: actions/upload-artifact@v2
